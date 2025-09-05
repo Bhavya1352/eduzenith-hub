@@ -1,5 +1,5 @@
 # eduzenith-hub
-
+live URL -https://eduzenith-hub.vercel.app/
 A modern web application built with React, TypeScript, and Tailwind CSS.
 
 ## 🚀 Getting Started
